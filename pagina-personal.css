@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+body {
+    background-image:url("fondo-todo.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    color: black;
+}
+
+img {
+    float:initial;
+    margin-left:30em;
+   width:350px;
+   height:350px;
+}
+
+img#CSC {
+    float:initial;
+    margin-left: 32em;
+    width:300px;
+    height:300px;
+ }
+
+img#OBC {
+    float:initial;
+    margin-left: 33em;
+   width:260px;
+   height:260px;
+}
+
+img#JMLM {
+    float:none;
+    margin-left: 29em;
+   width:400px;
+   height:400px;
+}
+
+img#Gmail {
+    float:initial;
+    margin-left: 40em;
+    width:50px;
+    height:50px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 330%;
+    font-style:normal;
+    font-family:'Open Sans', serif;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-style:normal;
+    font-family:'Open Sans', serif;
+    font-weight:600;
+    font-size:170%;
+
+}
+
+p {
+    color:black;
+    text-align: center;
+    font-style:normal;
+    font-family:'Open Sans', serif;
+    font-weight:500;
+    font-size:120%;
+}
